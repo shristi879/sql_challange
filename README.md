@@ -27,7 +27,7 @@ In descending order, list the frequency count of employee last names, i.e., how 
 
 # List of Content
 
-employee_ERD.png: an image file of the ERD.
+employee_db_ERD.png: an image file of the ERD.
 
 employee_schema.sql: a .sql file of the table schemata.
 
