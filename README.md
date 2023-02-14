@@ -31,4 +31,4 @@ employee_db_ERD.png: an image file of the ERD.
 
 employee_schema.sql: a .sql file of the table schemata.
 
-employee_query.sql: a .sql file of the queries.
+employee_db(query).sql: a .sql file of the queries.
